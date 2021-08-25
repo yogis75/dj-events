@@ -1,7 +1,9 @@
+import Layout from "../../components/Layout";
+
 export default function SlugPage() {
   return (
-    <div>
+    <Layout>
       <h1>Slug 1</h1>
-    </div>
+    </Layout>
   );
 }
